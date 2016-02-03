@@ -1,0 +1,27 @@
+# Minecraft_TechWorld2
+For Davmar96
+
+
+Maitenece tasks
+1) Empty Buildcraft chests, make sure quarry is still going
+2) Restock Nuclear reactor with uranium rods
+3) restock scrap chest
+4) get resin from tree farm
+
+
+To Do
+a) check out gold chest for increasted storage
+b) add MFSU to reactor room, add voltage system
+c) plant more trees in tree farm
+
+Long-Term
+1) make Iridium Drill
+2) make Quantum Armor
+3) make big reactor with reactorcraft
+
+
+
+
+
+
+
